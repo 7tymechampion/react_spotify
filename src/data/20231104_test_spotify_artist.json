@@ -1,0 +1,693 @@
+{
+  "artists": {
+    "href": "https://api.spotify.com/v1/search?query=test&type=artist&locale=en-US%2Cen%3Bq%3D0.5&offset=0&limit=20",
+    "items": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        },
+        "followers": {
+          "href": null,
+          "total": 1021032
+        },
+        "genres": [
+          "alternative metal",
+          "groove metal",
+          "hard rock",
+          "metal",
+          "old school thrash",
+          "thrash metal"
+        ],
+        "href": "https://api.spotify.com/v1/artists/28hJdGN1Awf7u3ifk2lVkg",
+        "id": "28hJdGN1Awf7u3ifk2lVkg",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb450264e732bd079570260538",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174450264e732bd079570260538",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178450264e732bd079570260538",
+            "width": 160
+          }
+        ],
+        "name": "Testament",
+        "popularity": 57,
+        "type": "artist",
+        "uri": "spotify:artist:28hJdGN1Awf7u3ifk2lVkg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4KZ2CyWpeORBTUd4vBAqnN"
+        },
+        "followers": {
+          "href": null,
+          "total": 8008
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/4KZ2CyWpeORBTUd4vBAqnN",
+        "id": "4KZ2CyWpeORBTUd4vBAqnN",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fad4b49795125378908738d5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fad4b49795125378908738d5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fad4b49795125378908738d5",
+            "width": 64
+          }
+        ],
+        "name": "Testpilot",
+        "popularity": 5,
+        "type": "artist",
+        "uri": "spotify:artist:4KZ2CyWpeORBTUd4vBAqnN"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/41Gp33noowlAEYoQcKOcmH"
+        },
+        "followers": {
+          "href": null,
+          "total": 390
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/41Gp33noowlAEYoQcKOcmH",
+        "id": "41Gp33noowlAEYoQcKOcmH",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb87d2dfbc5cdbb56613f819ae",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab6761610000517487d2dfbc5cdbb56613f819ae",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f17887d2dfbc5cdbb56613f819ae",
+            "width": 160
+          }
+        ],
+        "name": "Test",
+        "popularity": 5,
+        "type": "artist",
+        "uri": "spotify:artist:41Gp33noowlAEYoQcKOcmH"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
+        },
+        "followers": {
+          "href": null,
+          "total": 286422
+        },
+        "genres": [
+          "canadian rock",
+          "pop rock",
+          "post-grunge"
+        ],
+        "href": "https://api.spotify.com/v1/artists/1YEGETLT2p8k97LIo3deHL",
+        "id": "1YEGETLT2p8k97LIo3deHL",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb1f124f02ea71550139299bed",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab676161000051741f124f02ea71550139299bed",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f1781f124f02ea71550139299bed",
+            "width": 160
+          }
+        ],
+        "name": "Crash Test Dummies",
+        "popularity": 49,
+        "type": "artist",
+        "uri": "spotify:artist:1YEGETLT2p8k97LIo3deHL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6O1CuDVI7hqFCbLzCJHZsd"
+        },
+        "followers": {
+          "href": null,
+          "total": 4134
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/6O1CuDVI7hqFCbLzCJHZsd",
+        "id": "6O1CuDVI7hqFCbLzCJHZsd",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb329042ac7954a8092a52997d",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174329042ac7954a8092a52997d",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178329042ac7954a8092a52997d",
+            "width": 160
+          }
+        ],
+        "name": "Test",
+        "popularity": 18,
+        "type": "artist",
+        "uri": "spotify:artist:6O1CuDVI7hqFCbLzCJHZsd"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/34bwE4IO17Jgd574ibPOU4"
+        },
+        "followers": {
+          "href": null,
+          "total": 270
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/34bwE4IO17Jgd574ibPOU4",
+        "id": "34bwE4IO17Jgd574ibPOU4",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d6a5dd0245aca04a1084e681",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d6a5dd0245aca04a1084e681",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d6a5dd0245aca04a1084e681",
+            "width": 64
+          }
+        ],
+        "name": "Test",
+        "popularity": 8,
+        "type": "artist",
+        "uri": "spotify:artist:34bwE4IO17Jgd574ibPOU4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/53tEW8CsBBpnP4YOPQ2HZt"
+        },
+        "followers": {
+          "href": null,
+          "total": 1525
+        },
+        "genres": [
+          "brazilian grindcore"
+        ],
+        "href": "https://api.spotify.com/v1/artists/53tEW8CsBBpnP4YOPQ2HZt",
+        "id": "53tEW8CsBBpnP4YOPQ2HZt",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736cc645fd6ba7b6be788f971f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026cc645fd6ba7b6be788f971f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516cc645fd6ba7b6be788f971f",
+            "width": 64
+          }
+        ],
+        "name": "Test",
+        "popularity": 5,
+        "type": "artist",
+        "uri": "spotify:artist:53tEW8CsBBpnP4YOPQ2HZt"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2Kqoewlz2KnNRl66Dy5siR"
+        },
+        "followers": {
+          "href": null,
+          "total": 323
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/2Kqoewlz2KnNRl66Dy5siR",
+        "id": "2Kqoewlz2KnNRl66Dy5siR",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739a3642aba2a096229ba42144",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029a3642aba2a096229ba42144",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519a3642aba2a096229ba42144",
+            "width": 64
+          }
+        ],
+        "name": "TEST",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:2Kqoewlz2KnNRl66Dy5siR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5ZQWH2I5z4TV5lxGsRu0IE"
+        },
+        "followers": {
+          "href": null,
+          "total": 1
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5ZQWH2I5z4TV5lxGsRu0IE",
+        "id": "5ZQWH2I5z4TV5lxGsRu0IE",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27350e8819dff75d97922204e61",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0250e8819dff75d97922204e61",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485150e8819dff75d97922204e61",
+            "width": 64
+          }
+        ],
+        "name": "TEST",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:5ZQWH2I5z4TV5lxGsRu0IE"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        "followers": {
+          "href": null,
+          "total": 7136303
+        },
+        "genres": [
+          "big room",
+          "brostep",
+          "dutch edm",
+          "edm",
+          "house",
+          "pop dance",
+          "slap house",
+          "trance"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+        "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebe84e08fb1dfa2bf9b5a61563",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174e84e08fb1dfa2bf9b5a61563",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178e84e08fb1dfa2bf9b5a61563",
+            "width": 160
+          }
+        ],
+        "name": "Tiësto",
+        "popularity": 80,
+        "type": "artist",
+        "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7jfAwO9YczGpEUuUlo3btB"
+        },
+        "followers": {
+          "href": null,
+          "total": 1452
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/7jfAwO9YczGpEUuUlo3btB",
+        "id": "7jfAwO9YczGpEUuUlo3btB",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb57b0c450739faf254fed4bd9",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab6761610000517457b0c450739faf254fed4bd9",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f17857b0c450739faf254fed4bd9",
+            "width": 160
+          }
+        ],
+        "name": "Test Subjects",
+        "popularity": 14,
+        "type": "artist",
+        "uri": "spotify:artist:7jfAwO9YczGpEUuUlo3btB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0YUntKeRMwfY3aoFZi6YX6"
+        },
+        "followers": {
+          "href": null,
+          "total": 6210
+        },
+        "genres": [
+          "downtempo fusion"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0YUntKeRMwfY3aoFZi6YX6",
+        "id": "0YUntKeRMwfY3aoFZi6YX6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f9fc8a2e95984a573967e337",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f9fc8a2e95984a573967e337",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f9fc8a2e95984a573967e337",
+            "width": 64
+          }
+        ],
+        "name": "Test Shot Starfish",
+        "popularity": 19,
+        "type": "artist",
+        "uri": "spotify:artist:0YUntKeRMwfY3aoFZi6YX6"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/31obJnEmHX81bUzzfLAiM6"
+        },
+        "followers": {
+          "href": null,
+          "total": 15678
+        },
+        "genres": [
+          "british experimental",
+          "british industrial",
+          "industrial",
+          "martial industrial"
+        ],
+        "href": "https://api.spotify.com/v1/artists/31obJnEmHX81bUzzfLAiM6",
+        "id": "31obJnEmHX81bUzzfLAiM6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb3e81cbfbc9ded0c592f735ab",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab676161000051743e81cbfbc9ded0c592f735ab",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f1783e81cbfbc9ded0c592f735ab",
+            "width": 160
+          }
+        ],
+        "name": "Test Dept",
+        "popularity": 14,
+        "type": "artist",
+        "uri": "spotify:artist:31obJnEmHX81bUzzfLAiM6"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/71gCQBAogEzSFrTX3MUcAs"
+        },
+        "followers": {
+          "href": null,
+          "total": 55
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/71gCQBAogEzSFrTX3MUcAs",
+        "id": "71gCQBAogEzSFrTX3MUcAs",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739c43f743500f32ea7020b321",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029c43f743500f32ea7020b321",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519c43f743500f32ea7020b321",
+            "width": 64
+          }
+        ],
+        "name": "TestDrive",
+        "popularity": 13,
+        "type": "artist",
+        "uri": "spotify:artist:71gCQBAogEzSFrTX3MUcAs"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Kw4SpVy92cGof9ylSa8AB"
+        },
+        "followers": {
+          "href": null,
+          "total": 649
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/0Kw4SpVy92cGof9ylSa8AB",
+        "id": "0Kw4SpVy92cGof9ylSa8AB",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273672c3f5e0040aa9cdf550dc3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02672c3f5e0040aa9cdf550dc3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851672c3f5e0040aa9cdf550dc3",
+            "width": 64
+          }
+        ],
+        "name": "Testa Rossa",
+        "popularity": 14,
+        "type": "artist",
+        "uri": "spotify:artist:0Kw4SpVy92cGof9ylSa8AB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0pkecf4XKAVfFHUtgdoSE9"
+        },
+        "followers": {
+          "href": null,
+          "total": 3373
+        },
+        "genres": [
+          "german jazz rap",
+          "jazz boom bap"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0pkecf4XKAVfFHUtgdoSE9",
+        "id": "0pkecf4XKAVfFHUtgdoSE9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27357b0e223ecd3ccdeed3399b8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0257b0e223ecd3ccdeed3399b8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485157b0e223ecd3ccdeed3399b8",
+            "width": 64
+          }
+        ],
+        "name": "Testiculo y Uno",
+        "popularity": 31,
+        "type": "artist",
+        "uri": "spotify:artist:0pkecf4XKAVfFHUtgdoSE9"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h"
+        },
+        "followers": {
+          "href": null,
+          "total": 32618
+        },
+        "genres": [
+          "naija worship"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0RuEx08C8sVTmomMsW9N3h",
+        "id": "0RuEx08C8sVTmomMsW9N3h",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b8b4d6ab6e6fe1facb0b4b9c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b8b4d6ab6e6fe1facb0b4b9c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bcc72ef2e7187b59a18c6888",
+            "width": 64
+          }
+        ],
+        "name": "TESTIMONY JAGA",
+        "popularity": 26,
+        "type": "artist",
+        "uri": "spotify:artist:0RuEx08C8sVTmomMsW9N3h"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0dkGtIJ4FzMutrt3a2jBE0"
+        },
+        "followers": {
+          "href": null,
+          "total": 0
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/0dkGtIJ4FzMutrt3a2jBE0",
+        "id": "0dkGtIJ4FzMutrt3a2jBE0",
+        "images": [],
+        "name": "TEST",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:0dkGtIJ4FzMutrt3a2jBE0"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/75SyFLo52sjnaXE6xCtffW"
+        },
+        "followers": {
+          "href": null,
+          "total": 3
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/75SyFLo52sjnaXE6xCtffW",
+        "id": "75SyFLo52sjnaXE6xCtffW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730b534b94c194bfd680618a39",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020b534b94c194bfd680618a39",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510b534b94c194bfd680618a39",
+            "width": 64
+          }
+        ],
+        "name": "test",
+        "popularity": 12,
+        "type": "artist",
+        "uri": "spotify:artist:75SyFLo52sjnaXE6xCtffW"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        "followers": {
+          "href": null,
+          "total": 23676
+        },
+        "genres": [
+          "big room",
+          "gym hardstyle"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0Dzj2bn9ivDSjvJVSKL4q7",
+        "id": "0Dzj2bn9ivDSjvJVSKL4q7",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebfec12d0a26d3041a473d18f7",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174fec12d0a26d3041a473d18f7",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178fec12d0a26d3041a473d18f7",
+            "width": 160
+          }
+        ],
+        "name": "Luca Testa",
+        "popularity": 54,
+        "type": "artist",
+        "uri": "spotify:artist:0Dzj2bn9ivDSjvJVSKL4q7"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/search?query=test&type=artist&locale=en-US%2Cen%3Bq%3D0.5&offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 36
+  }
+}
